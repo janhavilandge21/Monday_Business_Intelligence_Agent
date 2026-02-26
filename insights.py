@@ -1,4 +1,4 @@
-from tools.monday_api import get_board_items
+from monday_api import get_board_items
 from config import DEALS_BOARD_ID, WORK_BOARD_ID
 from datetime import datetime
 
@@ -51,4 +51,5 @@ def generate_insight(question):
         return f"There are {len(risky)} deals at risk of delay."
 
     else:
+
         return "Ask about deals, delayed work orders, or risky deals."
