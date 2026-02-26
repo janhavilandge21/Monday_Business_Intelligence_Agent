@@ -58,19 +58,17 @@ Each query triggers live API calls ensuring real-time insights.
 
 ---
 
+
 ## Screenshots
 
 ### Work Orders Insight
-
-![Work Orders](assets/work_orders.png)
+![Work Orders](./assets/work_orders.png)
 
 ### Delayed Work Orders Insight
-
-![Delayed Work Orders](assets/delayed_orders.png)
+![Delayed Work Orders](./assets/delayed_orders.png)
 
 ### Deals at Risk Insight
-
-![Deals Risk](assets/deals_risk.png)
+![Deals Risk](./assets/deals_risk.png)
 
 ---
 
