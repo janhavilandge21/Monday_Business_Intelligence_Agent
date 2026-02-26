@@ -1,0 +1,2 @@
+DEALS_BOARD_ID = ""
+WORK_BOARD_ID = ""
